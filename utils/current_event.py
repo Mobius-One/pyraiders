@@ -1,0 +1,1 @@
+current_event = "olympiad_02"

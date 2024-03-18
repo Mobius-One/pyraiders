@@ -1,0 +1,188 @@
+{
+    "amazon": {
+        "legend": true,
+        "spec1": "huntressamazon",
+        "spec2": "oracleamazon",
+        "spec3": "princessamazon"
+    },
+    "archer": {
+        "legend": false,
+        "spec1": "pinningarcher",
+        "spec2": "longshotarcher",
+        "spec3": "deadeyearcher"
+    },
+    "artillery": {
+        "legend": true,
+        "spec1": "rapidartillery",
+        "spec2": "shrapnelartillery",
+        "spec3": "sludgeartillery"
+    },
+    "balloonbuster": {
+        "legend": false,
+        "spec1": "ironcladballoonbuster",
+        "spec2": "slayingballoonbuster",
+        "spec3": "volatileballoonbuster"
+    },
+    "barbarian": {
+        "legend": false,
+        "spec1": "brawlerbarbarian",
+        "spec2": "heroicbarbarian",
+        "spec3": "wildbarbarian"
+    },
+    "berserker": {
+        "legend": false,
+        "spec1": "championberserker",
+        "spec2": "rampagingberserker",
+        "spec3": "warpathberserker"
+    },
+    "blob": {
+        "legend": true,
+        "spec1": "biohazardblob",
+        "spec2": "goopyblob",
+        "spec3": "symbioticblob"
+    },
+    "bomber": {
+        "legend": false,
+        "spec1": "farsightbomber",
+        "spec2": "flakbomber",
+        "spec3": "volatilebomber"
+    },
+    "buster": {
+        "legend": false,
+        "spec1": "focusedbuster",
+        "spec2": "rushingbuster",
+        "spec3": "volatilebuster"
+    },
+    "centurion": {
+        "legend": false,
+        "spec1": "mastercenturion",
+        "spec2": "heavycenturion",
+        "spec3": "mastercenturion"
+    },
+    "fairy": {
+        "legend": false,
+        "spec1": "beguilingfairy",
+        "spec2": "guardianfairy",
+        "spec3": "saviorfairy"
+    },
+    "flagbearer": {
+        "legend": false,
+        "spec1": "cursedflagbearer",
+        "spec2": "mightyflagbearer",
+        "spec3": "threateningflagbearer"
+    },
+    "flyingrogue": {
+        "legend": false,
+        "spec1": "armoredflyingrogue",
+        "spec2": "focusedflyingrogue",
+        "spec3": "swiftflyingrogue"
+    },
+    "gladiator": {
+        "legend": false,
+        "spec1": "bloodthirstgladiator",
+        "spec2": "stoicgladiator",
+        "spec3": "temperedgladiator"
+    },
+    "healer": {
+        "legend": false,
+        "spec1": "grandhealer",
+        "spec2": "invigoratinghealer",
+        "spec3": "hexhealer"
+    },
+    "lancer": {
+        "legend": false,
+        "spec1": "gaebolglancer",
+        "spec2": "rangelancer",
+        "spec3": "skylancer"
+    },
+    "mage": {
+        "legend": true,
+        "spec1": "embermage",
+        "spec2": "longshotmage",
+        "spec3": "purifiermage"
+    },
+    "monk": {
+        "legend": false,
+        "spec1": "grandmonk",
+        "spec2": "martyrmonk",
+        "spec3": "mightymonk"
+    },
+    "musketeer": {
+        "legend": false,
+        "spec1": "duelistmusketeer",
+        "spec2": "snipingmusketeer",
+        "spec3": "volleymastermusketeer"
+    },
+    "necromancer": {
+        "legend": true,
+        "spec1": "avariciousnecromancer",
+        "spec2": "enthrallednecromancer",
+        "spec3": "savantnecromancer"
+    },
+    "orcslayer": {
+        "legend": true,
+        "spec1": "championorcslayer",
+        "spec2": "rampagingorcslayer",
+        "spec3": "veteranorcslayer"
+    },
+    "paladin": {
+        "legend": false,
+        "spec1": "championpaladin",
+        "spec2": "duelistpaladin",
+        "spec3": "heavypaladin"
+    },
+    "rogue": {
+        "legend": false,
+        "spec1": "assassinrogue",
+        "spec2": "charmingrogue",
+        "spec3": "swiftfootrogue"
+    },
+    "saint": {
+        "legend": false,
+        "spec1": "focusedsaint",
+        "spec2": "glorioussaint",
+        "spec3": "martyrsaint"
+    },
+    "shinobi": {
+        "legend": false,
+        "spec1": "darkshinobi",
+        "spec2": "focusedshinobi",
+        "spec3": "trickstershinobi"
+    },
+    "spy": {
+        "legend": true,
+        "spec1": "masterspy",
+        "spec2": "poisonerspy",
+        "spec3": "saboteurspy"
+    },
+    "tank": {
+        "legend": false,
+        "spec1": "breachertank",
+        "spec2": "martyrtank",
+        "spec3": "heavytank"
+    },
+    "templar": {
+        "legend": false,
+        "spec1": "knighttemplar",
+        "spec2": "duelisttemplar",
+        "spec3": "grandtemplar"
+    },
+    "vampire": {
+        "legend": false,
+        "spec1": "bloodlustvampire",
+        "spec2": "grandvampire",
+        "spec3": "vengefulvampire"
+    },
+    "warbeast": {
+        "legend": true,
+        "spec1": "terrifyingwarbeast",
+        "spec2": "ravenouswarbeast",
+        "spec3": "shreddingwarbeast"
+    },
+    "warrior": {
+        "legend": false,
+        "spec1": "ragingwarrior",
+        "spec2": "rallywarrior",
+        "spec3": "vengefulwarrior"
+    }
+}

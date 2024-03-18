@@ -1,0 +1,8 @@
+{
+  "map_node_url": "https://streamcap-prod1.s3.amazonaws.com/data/data.3ce3f9c60f1c.json",
+  "set_marker_priority": true,
+  "global_ignore": [
+    "captain1",
+    "captain2"
+  ]
+}
