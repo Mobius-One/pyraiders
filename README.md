@@ -3,10 +3,6 @@
 ### For bugs and issues please check the logger.txt file.
 ### Do not share your logger.txt publicly, it contains information that identifies your SR account.
 
-## Want to help me with testing?
-Join the server: [![Static Badge](https://img.shields.io/badge/Discord-Discord?style=for-the-badge&logo=discord&color=%23C5CAE9)](https://discord.gg/Egu7v8V8Dz)<br>
-If you can, run PyRaiders using Visual Studio Code to better track issues.
-
 ### This is still in Alpha:
 It can autonomously rotate slots, place units and collect quests.<br>
 For every option available please check the bottom of this page<br>
